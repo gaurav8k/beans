@@ -13,5 +13,6 @@
 <jsp:setProperty property="email" name="user" value="gaurav@gmail.com"/>
 <jsp:setProperty property="password" name="user" value="letmein"/>
 
+<!-- name and id should be matched -->
 </body>
 </html>
